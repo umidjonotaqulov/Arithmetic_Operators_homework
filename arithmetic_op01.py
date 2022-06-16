@@ -6,3 +6,9 @@
 
 #Print the value of result.
 #'The result is:'
+
+
+x = 10
+y = 5
+The_result_is = x + y
+print( The_result_is )
