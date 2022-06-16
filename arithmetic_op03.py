@@ -4,13 +4,6 @@
 
 #Print the answer variable
 
-#"number" deb nomlangan o'zgaruvchi yarating va unga ikki xonali raqamni belgilang
-
-#Raqamning teskarisini toping va uni "answer" deb nomlangan o'zgaruvchiga belgilang.
-
-#Javob oʻzgaruvchisini chop eting
-
-
 number = 56
 x1 = number % 10
 x2 = number // 10
