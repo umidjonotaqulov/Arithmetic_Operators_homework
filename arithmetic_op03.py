@@ -11,6 +11,8 @@
 #Javob oʻzgaruvchisini chop eting
 
 
-number = 50
-answer = 1/number
+number = 41
+x1 = number % 10
+x2 = number // 10
+answer = x1 * 10 + x2
 print( answer )
