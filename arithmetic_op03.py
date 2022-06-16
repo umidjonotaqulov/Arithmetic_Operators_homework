@@ -10,6 +10,7 @@
 
 #Javob oʻzgaruvchisini chop eting
 
-number = 5
+
+number = 50
 answer = 1/number
-print(answer)
+print( answer )
