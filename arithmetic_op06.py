@@ -7,3 +7,17 @@
 #Print the answer.
  
 #Print the number.
+
+#Int ma'lumotlar turi bilan "number" deb nomlangan o'zgaruvchi yarating.
+ 
+#Raqamni 2 ga bo'ling va raqamni belgilang.
+ 
+#Raqamning kasrini toping va "answer" deb nomlangan o'zgaruvchiga baho bering.
+ 
+#Javobni chop eting.
+ 
+#Raqamni chop eting.
+
+number = 503
+answer = number // 2 - number / 2
+print (answer )
