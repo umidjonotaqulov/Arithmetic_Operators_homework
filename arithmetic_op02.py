@@ -4,12 +4,6 @@
 
 #Print answer.
 
-#"number" o'zgaruvchisini yarating va unga 43 qiymatini belgilang.
-
-#"answer" o'zgaruvchisini yarating va unga number raqamlari yig'indisini belgilang.
-
-#Javobni chop eting.
-
 
 number = 43
 answer = number // 10 + number % 10
