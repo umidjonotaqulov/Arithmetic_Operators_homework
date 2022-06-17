@@ -10,20 +10,8 @@
 
 #print the sum of the three digits.
 
-#"number" deb nomlangan o'zgaruvchi yarating va unga uch xonali raqamni belgilang.
 
-#"number"ning birinchi raqamini toping va x1 ga belgilang.
-
-#"number"ning ikkinchi raqamini toping va x2 ga belgilang.
-
-#"number"ning uchinchi raqamini toping va x3 ga belgilang.
-
-#"answer" deb nomlangan o'zgaruvchi yarating va unga uchta raqam yig'indisini belgilang.
-
-#uchta raqamning yig'indisini chop eting.
-
-
-number = 857
+number = 855
 x1 = number % 10
 
 x2 = number // 10 % 10
