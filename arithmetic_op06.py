@@ -19,5 +19,5 @@
 #Raqamni chop eting.
 
 number = 503
-answer = number // 2 - number / 2
+answer = number / 2 - number // 2
 print (answer )
