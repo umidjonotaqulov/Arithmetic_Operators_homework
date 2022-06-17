@@ -5,7 +5,7 @@
 #Print the answer variable
 
 number = 56
-x1 = number % 10
-x2 = number // 10
-answer = x1 * 10 + x2
+x1 = number // 10
+x2 = number % 10
+answer = x1 + x2 *10
 print( answer )
